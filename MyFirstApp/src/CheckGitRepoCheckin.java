@@ -5,6 +5,8 @@ public class CheckGitRepoCheckin {
 		// TODO Auto-generated method stub
 		
 		System.out.println("check for GIT Repo checkin");
+		
+		System.out.println("additional code added");
 
 	}
 
